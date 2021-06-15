@@ -15,7 +15,7 @@ This is a standard blank Vue project template. You are going to make a todo list
 
 Refer to sample layout below. Color and sizes are not required to be the same, similar should be ok.
 
-![design sample](./sample-layout.jpg)
+![design sample](https://user-images.githubusercontent.com/44193502/122070217-5aa97200-ce28-11eb-836e-47ecd3e77846.jpg)
 
 ### Submit Requirement
 
